@@ -13,9 +13,11 @@ The company Pewlett-Hackard has multiple employees reaching retirement age and i
 ![mentor_title_amount](https://user-images.githubusercontent.com/56700719/153760182-8bc9cc03-860d-41ea-8866-12e493cae076.JPG)
 
 This table is the total amount of each employees’ title in the list of employees eligible to participate in a mentorship program. There are multiple employees who are qualified, retirement-ready in each department to mentor the upcoming generation of employees. Unfortunately, there no managers made the list for the mentorship program.
+
 ![total_emp_retire](https://user-images.githubusercontent.com/56700719/153760202-84ae901d-f6c8-438f-ba0f-1c46baed771d.JPG)
 
 As some of the employees begin to retire, there will be a total of 72,458 positions to be filled when this retirement wave finishes.
+
 ![total_salary_retire](https://user-images.githubusercontent.com/56700719/153760225-825684e9-e012-4a54-a990-f159d30b1c2b.JPG)
 
 I was a little curious and joined the unique_titles table, which is the table with all retirement ready employees with no duplicate rows, with the salaries table, and then summed up all the salaries. When this retirement wave finishes, the total amount of all those salaries will sum to more than $3.83 billion.
